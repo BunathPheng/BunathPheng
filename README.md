@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Pheng Bunath</h1>
-<h3 align="center">DevOps Engineering Student | Passionate about Automation, Cloud & CI/CD</h3>
+<h3 align="center">DevOps Engineering Student | Passionate about Automation, Cloud & CI/CD | Student's KSHRD</h3>
 
 ---
 
