@@ -4,7 +4,6 @@
 ---
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-<img src="https://i.pinimg.com/originals/93/83/eb/9383eb0c6e7df54046b9f06f775cb29e.gif" width="250" align="right"/>
 
 
 ### 👨‍💻 About Me
