@@ -60,11 +60,6 @@ I enjoy creating efficient and scalable deployment pipelines, automating workflo
 
 ---
 
-### 📊 GitHub Stats
-![Pheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=phengbunath&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phengbunath&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phengbunath&theme=tokyonight)
-
 ---
 
 ### 🧠 Currently Exploring
