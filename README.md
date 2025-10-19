@@ -1,69 +1,84 @@
-<h1 align="center">👋 Hi, I'm Payne Bernard</h1>
-<h3 align="center">Aspiring DevOps Engineer | Computer Science Student at CSTAD</h3>
+<h1 align="center">👋 Hi, I'm Pheng Bunath</h1>
+<h3 align="center">DevOps Engineering Student | Passionate about Automation, Cloud & CI/CD</h3>
 
 ---
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning **CI/CD, Docker, and Cloud Deployment**
-- 💻 Passionate about **Automation, Linux, and Infrastructure as Code**
-- 🧠 Exploring **Kubernetes, Jenkins, and Terraform**
-- ⚙️ Focused on improving **System Reliability and Deployment Pipelines**
-- 📫 Reach me on [Telegram](https://t.me/yourtelegram) | [LinkedIn](https://linkedin.com/in/yourprofile)
+I'm a **Computer Science student at the Royal University of Phnom Penh (RUPP)** and currently training in **DevOps Engineering** at the **Korea Software HRD Center (KSHRD)** and **Institute of Science and Technology Advanced Development (ISTAD)**.  
+
+I enjoy creating efficient and scalable deployment pipelines, automating workflows, and managing modern infrastructure with DevOps tools.
+
+- 🌱 Currently learning **Jenkins, Ansible, and GitOps (Argo CD)**
+- ☁️ Working with **Docker, Kubernetes, and Google Cloud Platform**
+- 🧠 Interested in **CI/CD, Infrastructure as Code, and Monitoring**
+- ⚙️ Improving **system reliability and deployment efficiency**
+- 📫 Reach me at **[bunathpheng4@gmail.com](mailto:bunathpheng4@gmail.com)**
+- 💼 [LinkedIn](https://www.linkedin.com/in/bunath-pheng-71a41b318)
 
 ---
 
-### 🛠️ DevOps & Tools
+### 🛠️ DevOps & Cloud Tools
 ![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)
 ![Docker](https://img.shields.io/badge/Container-Docker-blue?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-blue?logo=kubernetes)
 ![Ansible](https://img.shields.io/badge/Automation-Ansible-red?logo=ansible)
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-purple?logo=terraform)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-black?logo=githubactions)
 ![Jenkins](https://img.shields.io/badge/CI-Jenkins-red?logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-black?logo=githubactions)
 ![Nginx](https://img.shields.io/badge/WebServer-Nginx-green?logo=nginx)
+![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-orange?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Monitoring-Grafana-orange?logo=grafana)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-orange?logo=amazonaws)
 ![GCP](https://img.shields.io/badge/Cloud-GCP-blue?logo=googlecloud)
-![Docker Compose](https://img.shields.io/badge/Tool-Docker%20Compose-blue?logo=docker)
-![Bash](https://img.shields.io/badge/Scripting-Bash-black?logo=gnubash)
+![DigitalOcean](https://img.shields.io/badge/Cloud-DigitalOcean-blue?logo=digitalocean)
 
 ---
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript)
-![Go](https://img.shields.io/badge/Code-Golang-blue?logo=go)
-![Shell Script](https://img.shields.io/badge/Code-Shell-green?logo=gnubash)
+### 💻 Programming & Development
+![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot-brightgreen?logo=springboot)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript)
+![Next.js](https://img.shields.io/badge/Frontend-Next.js-black?logo=next.js)
+![Redux Toolkit](https://img.shields.io/badge/State-Redux-blue?logo=redux)
+![REST API](https://img.shields.io/badge/API-RESTful-blue)
+![Git](https://img.shields.io/badge/VersionControl-Git-orange?logo=git)
+![VS Code](https://img.shields.io/badge/IDE-VSCode-blue?logo=visualstudiocode)
+
+---
+
+### ⚙️ Technical Focus Areas
+- 🧩 **CI/CD Automation** — GitHub Actions, Jenkins, Argo CD  
+- ☸️ **Containerization** — Docker, Kubernetes, Helm  
+- ☁️ **Cloud Deployment** — GCP, DigitalOcean  
+- 🛠️ **Infrastructure as Code** — Ansible, Terraform  
+- 🧰 **Monitoring & Observability** — Prometheus, Grafana, Nagios  
+- 💡 **Software Design** — SOLID, REST APIs, Microservices
 
 ---
 
 ### 📊 GitHub Stats
-![Payne's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Pheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=phengbunath&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phengbunath&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phengbunath&theme=tokyonight)
 
 ---
 
-### 🔥 Current Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
-
----
-
-### ☁️ Cloud & Infrastructure
-- 🧩 AWS EC2 | S3 | Lambda | IAM  
-- ☸️ Kubernetes (k8s) Deployment  
-- 🛠️ Terraform & Ansible for IaC  
-- 📦 Dockerized Microservices  
-- 🧰 CI/CD Pipelines with GitHub Actions & Jenkins  
+### 🧠 Currently Exploring
+- Continuous Delivery with **Argo CD & GitOps**
+- Infrastructure management using **Ansible**
+- **Monitoring systems** with Prometheus and Grafana
+- Container deployment in **multi-cluster Kubernetes environments**
 
 ---
 
 ### ⚡ Fun Fact
-> “In DevOps, automation isn’t just a goal — it’s a culture.”
+> "In DevOps, automation turns ideas into delivery — faster, reliable, and repeatable."
 
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/bunath-pheng-71a41b318)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/yourtelegram)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/phengbunath)
