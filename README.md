@@ -1,4 +1,4 @@
-<img width="1185" height="1396" alt="image" src="https://github.com/user-attachments/assets/fda2380a-4cff-4b27-9db3-ea953f1b9fe9" /><h1 align="center">👋 Hi, I'm Pheng Bunath</h1>
+<h1 align="center">👋 Hi, I'm Pheng Bunath</h1>
 <h3 align="center">DevOps Engineering Student | Passionate about Automation, Cloud & CI/CD | Student's KSHRD</h3>
 
 ---
